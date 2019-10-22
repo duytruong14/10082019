@@ -12,3 +12,4 @@ public class classDemo {
         System.out.println("Rectangles's diagonal is: "+r1.diagonal); }
 }
 //only name method can access the private variable that were set up in the method
+//testing to see if github work
